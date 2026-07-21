@@ -8,12 +8,6 @@ Repository ini berisi dokumentasi materi **Node.js** yang saya pelajari dari ber
 
 Tujuan utama repository ini adalah sebagai media belajar, dokumentasi pribadi, sekaligus tempat untuk mengulang materi yang telah dipelajari.
 
----
-
-![GitHub last commit](https://img.shields.io/github/last-commit/USERNAME/NodeJS_Documentation?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/USERNAME/NodeJS_Documentation?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/USERNAME/NodeJS_Documentation?style=for-the-badge)
-
 </div>
 
 ---
