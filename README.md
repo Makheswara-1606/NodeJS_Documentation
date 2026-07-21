@@ -90,8 +90,6 @@ GitHub : https://github.com/Makheswara-1606
 
 <div align="center">
 
-### ⭐ Terima kasih telah mengunjungi repository ini.
-
-Happy Learning 🚀
+### Di Susun Oleh Galuh Maheswara (Panggil Saja Makarov)
 
 </div>
