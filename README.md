@@ -10,7 +10,7 @@ Tujuan utama repository ini adalah sebagai media belajar, dokumentasi pribadi, s
 
 ---
 
-<img src="https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2021/05/Blog_15_May_-_Tutorial_Node.js_Apa_itu_Node.js_dan_dasar-dasar_Node.png">
+<img src="https://miro.medium.com/1*ZPZq-1YuJQ5lAE2ihkR6iQ.png">
 
 </div>
 
