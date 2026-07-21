@@ -57,67 +57,6 @@ Repository ini dibuat dengan tujuan:
 
 ---
 
-# 📚 Daftar Materi
-
-## Dasar Node.js
-
-| No | Materi | Status |
-|----|---------|--------|
-| 01 | Pengenalan Node.js | ✅ |
-| 02 | Node REPL | ✅ |
-| 03 | Module | ⏳ |
-| 04 | NPM | ⏳ |
-| 05 | File System | ⏳ |
-| 06 | Core Module | ⏳ |
-| 07 | Event Emitter | ⏳ |
-| 08 | HTTP Module | ⏳ |
-| 09 | Express.js | ⏳ |
-
-> Keterangan:
->
-> - ✅ Selesai dipelajari
-> - ⏳ Dalam proses belajar
-> - 🚧 Akan dipelajari
-
----
-
-# 📂 Struktur Repository
-
-```
-NodeJS_Documentation
-│
-├── README.md
-│
-├── 01-Pengenalan-NodeJS
-│      └── README.md
-│
-├── 02-Fitur-REPL
-│      └── README.md
-│
-├── 03-Module
-│      └── README.md
-│
-├── 04-NPM
-│      └── README.md
-│
-├── 05-File-System
-│      └── README.md
-│
-└── ...
-```
-
----
-
-# 🚀 Progress Belajar
-
-- ✅ Pengenalan Node.js
-- ✅ Node REPL
-- ⏳ Module
-- ⏳ NPM
-- ⏳ File System
-- ⏳ Express.js
-
----
 
 # 📝 Catatan
 
@@ -133,8 +72,6 @@ Repository ini bersifat **learning documentation**, sehingga isi dokumentasi dap
 
 - Web Programming UNPAS
 - Dokumentasi Resmi Node.js
-- MDN Web Docs
-- W3Schools
 - FreeCodeCamp
 
 ---
@@ -147,15 +84,13 @@ SMKN 1 Depok
 
 Front-End Developer Enthusiast
 
-GitHub : https://github.com/USERNAME
+GitHub : https://github.com/Makheswara-1606
 
 ---
 
 <div align="center">
 
 ### ⭐ Terima kasih telah mengunjungi repository ini.
-
-Jika dokumentasi ini bermanfaat, jangan ragu untuk memberikan ⭐ pada repository ini.
 
 Happy Learning 🚀
 
