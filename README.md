@@ -82,7 +82,7 @@ Repository ini bersifat **learning documentation**, sehingga isi dokumentasi dap
 
 SMKN 1 Depok
 
-Front-End Developer Enthusiast
+Front-End and Back-End Developer Enthusiast
 
 GitHub : https://github.com/Makheswara-1606
 
