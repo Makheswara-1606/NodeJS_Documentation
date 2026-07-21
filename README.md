@@ -8,6 +8,10 @@ Repository ini berisi dokumentasi materi **Node.js** yang saya pelajari dari ber
 
 Tujuan utama repository ini adalah sebagai media belajar, dokumentasi pribadi, sekaligus tempat untuk mengulang materi yang telah dipelajari.
 
+---
+
+<img src="https://dicoding-assets.sgp1.cdn.digitaloceanspaces.com/blog/wp-content/uploads/2021/05/Blog_15_May_-_Tutorial_Node.js_Apa_itu_Node.js_dan_dasar-dasar_Node.png">
+
 </div>
 
 ---
