@@ -389,4 +389,3 @@ Sedangkan ketika aplikasi mulai berkembang, barulah kode dipindahkan ke file `.j
 
 ---
 
-> 🎉 Setelah memahami REPL, kita sudah siap untuk masuk ke tahap berikutnya, yaitu **menjalankan file JavaScript menggunakan Node.js** dan mulai membangun aplikasi Node secara nyata.
