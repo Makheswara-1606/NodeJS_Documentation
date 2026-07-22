@@ -1,6 +1,5 @@
 # 📖 Belajar Node.js #2 - Arsitektur Node.js
 
-> Dokumentasi pribadi hasil belajar Node.js dari playlist **Web Programming UNPAS** oleh **Sandhika Galih**.
 
 ---
 
