@@ -89,6 +89,8 @@ Output
 30
 ```
 
+img
+
 ---
 
 ## Perbandingan
